@@ -1,0 +1,12 @@
+## Interface: 60100
+## Title: Storytime
+## Notes: Storytelling addon for roleplay.
+## Author: jyggen
+## Version: 1.0-dev
+
+embeds.xml
+
+Core.lua
+GUI.lua
+Roll.lua
+Utils.lua
